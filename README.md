@@ -30,5 +30,5 @@ interactive-nav-menu/
 ---
 ## 🚀 Live Demo
 
-Check out the live demo here: [Interactive Nav Menu]()
+Check out the live demo here: [Interactive Nav Menu](https://madhuribagal08.github.io/PRODIGY_WD_T1/)
 
