@@ -28,5 +28,7 @@ interactive-nav-menu/
 ├── README.md # Project documentation
 └── .gitignore # Files/folders Git should ignore
 ---
+## 🚀 Live Demo
 
+Check out the live demo here: [Interactive Nav Menu]()
 
